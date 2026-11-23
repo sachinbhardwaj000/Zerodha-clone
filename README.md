@@ -1,2 +1,17 @@
-# Zerodha-clone
-TradePulse is a full-stack MERN stock trading platform that enables users to execute simulated buy/sell orders, track real-time holdings and P&amp;L metrics, and analyze portfolio performance through an interactive dashboard.
+# Zerodha Clone Frontend
+
+## Getting started
+
+Install dependencies and start the development server:
+
+```bash
+npm install
+npm start
+```
+
+The app opens at [http://localhost:3000](http://localhost:3000).
+
+## Available scripts
+
+- `npm test` runs the test suite.
+- `npm run build` creates a production build in the `build` directory.
